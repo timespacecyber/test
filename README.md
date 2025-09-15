@@ -167,4 +167,9 @@ This tutorial gave you:
 https://a64ef04be351.ngrok-free.app/{name}.{company}
 
 
-<span style="color:white">This text is hidden (white on white background)</span>
+<details>
+<summary>Click to reveal</summary>
+
+Hidden text here.
+
+</details>
